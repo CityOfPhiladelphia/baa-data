@@ -46,8 +46,8 @@ Division|	No | Text |
 Fine|	No | Fine amount for the violation. |	Text |
 Issue Date and Time	|No	|Date and time the violation was written.	|Date/Time	|
 Issuing Agency|	No|	The agency that issued the violation.	|Text	|
-License Plate State	|No	|State in which the vehicle is licensed.	|Text	|
+State	|No	|State in which the vehicle is licensed.	|Text	|
 Location|	No|	Location at which the violation was written.	|Text	|
-Vehicle Identifier|	No|	Anonymized identifier for the license plate number.	|Number	|
+Plate ID|	No|	Anonymized identifier for the license plate number.	|Number	|
 Violation Description|	No|	Short description of the type of violation that occurred.	|Text |
 
