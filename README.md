@@ -42,7 +42,7 @@ Fields
 
 |Alias|Sensitive|Description|Type|
 |:----|:-------------------|:------------|:------------|
-Division|	No | Text |
+Division|	No | Police district of issuing police officer (empty when issued by PPA) | Text |
 Fine|	No | Fine amount for the violation. |	Text |
 Issue Date and Time	|No	|Date and time the violation was written.	|Date/Time	|
 Issuing Agency|	No|	The agency that issued the violation.	|Text	|
